@@ -19,7 +19,7 @@ Currently working at Incognito Studio and Aurora Studio, but ready to work on ne
 - This project serves as a further, second exploration into mixing images of human models with 3D elements.
 - As creating shadows in raster editing software can be time consuming to get right and does not look very convincing, i used Blender and its Geometry Nodes component to create a tribal mask shape to see how rendered shadows hold up.
 
-![A headshot of a female model with a metallic abstract object covering parts of her face](acidrain_02.jpg)
+![A headshot of a female model with a metallic abstract object covering parts of her face](02-first-impression/acid rain_02.jpg)
 
 - This project serves as a proof-of-concept for making netcore, y2k inspired abstract art.
 - Not many people show you how to create art similar to theirs, so i set out to replicate a artist i enjoy following. 
