@@ -25,6 +25,10 @@ Currently working at Incognito Studio and Aurora Studio, but ready to work on ne
 - Not many people show you how to create art similar to theirs, so i set out to replicate a artist i enjoy following. 
 - **[Inspiration - sort of](https://twitter.com/aletiune/status/1542909684016881664?s=61&t=9f2ZKNh4lISCLE6214UhbA)**
 
+## More art:
+
+![A sticker with the text "aero" written on it using a graffiti dripmarker](hello.jpg)
+
 - [--> Look through more of my stuff here <--](aerostri.de)
 
 ## Notes
