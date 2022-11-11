@@ -35,6 +35,6 @@ The last part was done in Photoshop, where i fixed some of the details and tuned
 
 ### Recap
 
-Length: About a day for the render itself. The know-how took about a week and a test project to fully understand and get comfortable with.
-Software used: Blender, Cycles render, Adobe Photoshop
-
+- Length: About a day for the render itself. The know-how took about a week and a test project to fully understand and get comfortable with.
+- Software used: Blender, Cycles render, Adobe Photoshop
+- Fun: A lot
