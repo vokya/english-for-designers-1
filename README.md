@@ -8,7 +8,7 @@ Here you will find:
 
 ## Don't get lost!
 
-[01: Alternative text](01-alternative-text/index.md)
-[02: First impression](02-first-impression/index.md)
-[03: Content first](03-content-first/index.md)
-[04: ???](https://aerostri.de)
+- [01: Alternative text](01-alternative-text/index.md)
+- [02: First impression](02-first-impression/index.md)
+- [03: Content first](03-content-first/index.md)
+- [04: ???](https://aerostri.de)
