@@ -1,5 +1,3 @@
-# Your Name
-
 ## About Me
 
 Hi, I'm Max! A graphic designer and artist born in Prague, Czechia who loves to work on fresh and exciting projects!
@@ -8,14 +6,30 @@ Hi, I'm Max! A graphic designer and artist born in Prague, Czechia who loves to 
 
 ![Front portrait of a young male in a black baseball cap with dramatic red lighting coming from the right.](images/profile.jpeg)
 
-A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
+I started out sometime in 2015, on a questionable copy of Photoshop CC 2015 and have been evolving and refining my craft ever since.
+
+For most of my "career" I was working mostly on 2D visuals with the ocassional typesetting or MS Office job but lately 3D graphics have been a part of design I got into and wish to delve even deeper.
+
+I also very much enjoy working with textures along and taking a approach similar to mixed media.
+
+Things i enjoy:
+
+- :city_sunset: Architecture photography
+- :necktie: Fashion (design)
+- :moyai: Memes
+
+Things i do:
+
+- Creative Cloud :ballot_box_with_check:
+- MS Suite/Google Suite/LibreOffice/whatever you please :ballot_box_with_check:
+- Blender :ballot_box_with_check:
 
 ## Featured Project
 
-![Y2K inspired metallic abstract art, motion photography](images/featured.jpg)
+![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/featured.jpg)
 
-- This project serves as a proof-of-concept for making netcore, y2k inspired abstract art.
-- Not many people show you how to create art similar to theirs, so i set out to replicate a artist i enjoy following. 
+- This project was a second, more intricate experiment for mixing 3D models with 2D imagery.
+- It consists of the metallic object being placed on a 3D human figure which takes on the texture of the 2D image.
 
 
-- [No case study yet. Maybe soon](case-study.md)
+- [Click here for more info](case-study.md)
