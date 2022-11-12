@@ -21,7 +21,7 @@ Let's see what we're working with...
 ![Headshot of a model with a metallic spiky mask on their face](images/base.jpg)
 
 *Folio Montreal Models - Fahey*
-[Source](https://foliomontreal.com/en/models/fahey)
+[(Source)](https://foliomontreal.com/en/models/fahey)
 
 
 #### Breakdown
