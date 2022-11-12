@@ -4,6 +4,7 @@ This is a case study on some of the "intricacies" and the process behind this im
 
 ![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/featured.jpg)
 
+
 ### Intro
 
 #### Inspiration
@@ -27,13 +28,16 @@ The camera plays a vital part in setting up the scene to achieve this exact look
 
 ### The process
 
-![Work in progress screenshot of the model image.](images/wip2.jpeg)
-
-In this image without any edits, you can see the 3D elements being cast onto the 2D image with nice, soft shadows that would be very hard and/or time consuming to achieve with Photoshop.
 
 ![Work in progress screenshot of the model image.](images/wip1.png)
 
 The secret lies here: The textured 3D model is hidden and is assigned a attribute called "Shadow catcher". This means that the object is hidden to the camera, but it can interact with other objects in the scene, so light still bounces off of it and can influence the color and intensity of shadows.
+
+Afterwards, the original 2D image is put "onto" the camera, lining everything up perfectly.
+
+![Work in progress screenshot of the model image.](images/wip2.jpeg)
+
+In this image without any edits, you can see the 3D elements being cast onto the 2D image with nice, soft shadows that would be very hard and/or time consuming to achieve with Photoshop.
 
 ![Work in progress screenshot of the model image.](images/wip3.jpg)
 
