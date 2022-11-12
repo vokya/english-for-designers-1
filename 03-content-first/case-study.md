@@ -2,8 +2,9 @@
 
 This is a case study on some of the "intricacies" and the process behind this image:
 
-![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/featured.jpg)
+![Headshot of a model with a metallic spiky mask on their face](images/featured.jpg)
 
+---
 
 ### Intro
 
@@ -11,7 +12,17 @@ This is a case study on some of the "intricacies" and the process behind this im
 
 The inspiration for this image are fashion magazine editorials and makeup advertisements, similar to pictures like these:
 
-![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/inspo.jpg)
+![Headshot of a model with a metallic spiky mask on their face](images/inspo.jpg)
+
+#### Base image
+
+Let's see what we're working with...
+
+![Headshot of a model with a metallic spiky mask on their face](images/base.jpg)
+
+*Folio Montreal Models - Fahey*
+[Source](https://foliomontreal.com/en/models/fahey)
+
 
 #### Breakdown
 
@@ -26,6 +37,8 @@ From front to back:
 </ol>
 
 The camera plays a vital part in setting up the scene to achieve this exact look, here is why...
+
+---
 
 ### The process
 
@@ -43,11 +56,13 @@ To nail the correct look, shadows and colors of the metallic object a texture is
 
 The last part was done in Photoshop, where i fixed some of the details and tuned the colors of the image to my final liking...
 
-![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/image_solo.jpg)
+![Headshot of a model with a metallic spiky mask on their face](images/image_solo.jpg)
 
 ...and finished it all off with some typography.
 
-![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/featured.jpg)
+![Headshot of a model with a metallic spiky mask on their face](images/featured.jpg)
+
+---
 
 ### Recap
 
@@ -55,3 +70,7 @@ The last part was done in Photoshop, where i fixed some of the details and tuned
 - Software used: Blender, Cycles render, Adobe Photoshop
 - Fun: A lot
 - Learned: A lot
+
+---
+
+[Back](index.md)
