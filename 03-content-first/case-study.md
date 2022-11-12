@@ -16,6 +16,7 @@ The inspiration for this image are fashion magazine editorials and makeup advert
 #### Breakdown
 
 Here is a quick lazy breakdown of the "layers" this scene has...
+
 From front to back:
 
 <ol start="0">
@@ -28,30 +29,29 @@ The camera plays a vital part in setting up the scene to achieve this exact look
 
 ### The process
 
+The secret lies here: The textured 3D model is hidden and is assigned a attribute called "Shadow catcher". This means that the object is hidden to the camera, but it can interact with other objects in the scene, so light still bounces off of it and can influence the color and intensity of shadows.
 
 ![Work in progress screenshot of the model image.](images/wip1.png)
 
-The secret lies here: The textured 3D model is hidden and is assigned a attribute called "Shadow catcher". This means that the object is hidden to the camera, but it can interact with other objects in the scene, so light still bounces off of it and can influence the color and intensity of shadows.
-
-Afterwards, the original 2D image is put "onto" the camera, lining everything up perfectly.
+Afterwards, the original 2D image is put "onto" the camera, lining everything up perfectly. In this image without any edits, you can see the 3D elements being cast onto the 2D image with nice, soft shadows that would be very hard and/or time consuming to achieve with Photoshop.
 
 ![Work in progress screenshot of the model image.](images/wip2.jpeg)
 
-In this image without any edits, you can see the 3D elements being cast onto the 2D image with nice, soft shadows that would be very hard and/or time consuming to achieve with Photoshop.
+To nail the correct look, shadows and colors of the metallic object a texture is created for the hidden 3D object. You can imagine this as just the 2D image "painted" on top of the 3D "human".
 
 ![Work in progress screenshot of the model image.](images/wip3.jpg)
 
-To nail the correct look, shadows and colors of the metallic object a texture is created for the hidden 3D object. You can imagine this as just the 2D image "painted" on top of the 3D "human".
+The last part was done in Photoshop, where i fixed some of the details and tuned the colors of the image to my final liking...
 
 ![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/image_solo.jpg)
 
-The last part was done in Photoshop, where i fixed some of the details and tuned the colors of the image to my final liking and finished it all off with some typography.
+...and finished it all off with some typography.
 
 ![Headshot of a VOGUE Magazine model with a metallic spiky mask on their face](images/featured.jpg)
 
 ### Recap
 
-- Length: About a day for the render itself. The know-how took about a week and a test project to fully understand and get comfortable with.
+- Length: About a day for the scene and render itself. The know-how took about a week and a test project to fully understand and get comfortable with.
 - Software used: Blender, Cycles render, Adobe Photoshop
 - Fun: A lot
 - Learned: A lot
