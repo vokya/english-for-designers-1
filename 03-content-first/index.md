@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Max! A graphic designer and artist born in Prague, Czechia who loves to work on fresh and exciting projects!
+Hi, I'm Max! A graphic designer and digital artist born in Prague, Czechia who loves to work on fresh and exciting projects!
 
 ## My Story
 
@@ -14,15 +14,15 @@ I also very much enjoy working with textures along and taking a approach similar
 
 Things i enjoy:
 
-- Architecture photography
-- Fashion (design)
-- Memes
+🌆 Architecture photography
+👔 Fashion (design)
+🗿 Memes
 
 Things i do:
 
-- Creative Cloud 
-- MS Suite/Google Suite/LibreOffice/whatever office suite you please
-- Blender
+✅ Creative Cloud 
+✅ Blender
+✅ MS Suite/Google Suite/LibreOffice/whatever office suite you please
 
 ## Featured Project
 
