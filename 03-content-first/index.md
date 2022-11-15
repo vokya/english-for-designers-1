@@ -14,15 +14,15 @@ I also very much enjoy working with textures along and taking a approach similar
 
 Things i enjoy:
 
-- :city_sunset: Architecture photography
-- :necktie: Fashion (design)
-- :moyai: Memes
+- Architecture photography
+- Fashion (design)
+- Memes
 
 Things i do:
 
-- Creative Cloud :ballot_box_with_check:
-- MS Suite/Google Suite/LibreOffice/whatever you please :ballot_box_with_check:
-- Blender :ballot_box_with_check:
+- Creative Cloud 
+- MS Suite/Google Suite/LibreOffice/whatever office suite you please
+- Blender
 
 ## Featured Project
 
