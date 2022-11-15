@@ -15,13 +15,17 @@ I also very much enjoy working with textures along and taking a approach similar
 Things i enjoy:
 
 🌆 Architecture photography
+
 👔 Fashion (design)
+
 🗿 Memes
 
 Things i do:
 
 ✅ Creative Cloud 
+
 ✅ Blender
+
 ✅ MS Suite/Google Suite/LibreOffice/whatever office suite you please
 
 ## Featured Project
