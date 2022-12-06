@@ -12,7 +12,6 @@ Short version below:
 ## Experience
 
 - Graphic designer @ **Incognito Studio** (08/2022 - Current)
-
 	- Production of subtitles for movies
 	- Preparing data for the cutting room 
 	- Coding a new website
@@ -20,15 +19,13 @@ Short version below:
 ---
 
 - Graphic designer @ **CHODIL** (07/2021 - Current)
-
- 	- Creating content for social media and websites 
- 	- Logo designs and redesigns
- 	- Preparation of print-ready data
+	- Creating content for social media and websites 
+	- Logo designs and redesigns
+	- Preparation of print-ready data
 
 ---
 
 - Graphic designer @ **Twisto.cz** (01/2020 - 01/2021)
-
 	- Creation of visuals used for marketing communication 
 	- Banners for websites
 	- Mockups with own in-app screens
@@ -43,15 +40,13 @@ Short version below:
 ## Education
 
 - Ongoing bachelor studies @ **VŠKK** (10/2020 - 08/2023)
-
- 	- Course: Graphic and media design
+	- Course: Graphic and media design
 	- University of creative communication
 
 ---
 
 - Finished highschool @ **ESKAR** (09/2008 - 05/2019)
-
- 	- European Baccalaureate diploma with an average grade of 1.7
+	- European Baccalaureate diploma with an average grade of 1.7
 
 ---
 
