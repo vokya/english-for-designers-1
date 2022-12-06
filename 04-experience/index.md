@@ -3,13 +3,16 @@
 
 I'm a graphic designer and digital artist born in Prague, Czechia who loves to work on fresh and exciting projects!
 
-[Download my CV (.pdf)](cv-2022-11-mestan.pdf)
+[Download my full CV (.pdf)](cv-2022-11-mestan.pdf)
+
+Short version below:
 
 ---
 
-### Experience
+## Experience
 
 - Graphic designer @ **Incognito Studio** (08/2022 - Current)
+
 	- Production of subtitles for movies
 	- Preparing data for the cutting room 
 	- Coding a new website
@@ -17,6 +20,7 @@ I'm a graphic designer and digital artist born in Prague, Czechia who loves to w
 ---
 
 - Graphic designer @ **CHODIL** (07/2021 - Current)
+
  	- Creating content for social media and websites 
  	- Logo designs and redesigns
  	- Preparation of print-ready data
@@ -24,31 +28,34 @@ I'm a graphic designer and digital artist born in Prague, Czechia who loves to w
 ---
 
 - Graphic designer @ **Twisto.cz** (01/2020 - 01/2021)
+
 	- Creation of visuals used for marketing communication 
 	- Banners for websites
 	- Mockups with own in-app screens
-	- Creating (and resizing) banners for social media (Facebook, Twitter,
-Instagram, LinkedIn)
+	- Creating (and resizing) banners for social media (Facebook, Twitter, Instagram, LinkedIn)
 	- Creating hardsell PPC banners for advertising purposes • Resizing of key visuals
-
-*More details in the .pdf file...*
 
 ---
 
-### Education
+*More details in the .pdf file...*
+
+
+## Education
 
 - Ongoing bachelor studies @ **VŠKK** (10/2020 - 08/2023)
+
  	- Course: Graphic and media design
 	- University of creative communication
 
 ---
 
 - Finished highschool @ **ESKAR** (09/2008 - 05/2019)
+
  	- European Baccalaureate diploma with an average grade of 1.7
 
 ---
 
-### Skills
+## Skills
 
 - Graphic design
 	- Adobe Photoshop
@@ -85,6 +92,6 @@ Instagram, LinkedIn)
 ---
 
 ### Thanks for reading!
-For more details download the .pdf file below...
+For a full rundown of details download the .pdf file below...
 
 [Download my CV (.pdf)](cv-2022-11-mestan.pdf)
