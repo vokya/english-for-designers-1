@@ -33,5 +33,4 @@ Keep these things in mind when writing to stay in line with the tone of voice.
 - Keep a friendly and informal voice
 - Feel free to use terminology to some extent, but do not overuse it.
 - Divide longer sections of texts into shorter, more easy to read paragraphs. This helps with staying concise.
-
 - The last and most important part is to not take anything too seriously. Staying humble and some decent introspection can make your text easier to relate to.
