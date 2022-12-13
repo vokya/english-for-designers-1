@@ -10,7 +10,7 @@ There are a few key points to pay attention to when writing flavor text in my to
 2. Utilizing terminology is reasonable to a certain extent as it adds to the voice personality.
 	- You can always <abbr title="Using a shortened form of a word or phrase.">abbreviate</abbr> terminology.
 
-3. Keep paragraphs short and sweet - feel free to divide text into smaller sections to improve readability.
+3. Don't be overly formal - keep it fun, this makes it easier for people to reach out to you on their own.
 
 ## Tone
 
@@ -32,4 +32,6 @@ Keep these things in mind when writing to stay in line with the tone of voice.
 - Stay consistent across all written media 
 - Keep a friendly and informal voice
 - Feel free to use terminology to some extent, but do not overuse it.
-- Divide longer sections of texts into shorter, more easy to read paragraphs. 
+- Divide longer sections of texts into shorter, more easy to read paragraphs. This helps with staying concise.
+
+- The last and most important part is to not take anything too seriously. Staying humble and some decent introspection can make your text easier to relate to.
