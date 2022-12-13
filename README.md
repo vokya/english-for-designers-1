@@ -1,10 +1,8 @@
 # VŠKK - english-for-designers
-Something super super simple.
 
-Here you will find:
+Hi, my name is Max and i do graphic design.
 
-- work
-- more work
+Here you will find coursework from the `English for designers` course at VŠKK.
 
 ## Don't get lost!
 
@@ -13,3 +11,4 @@ Here you will find:
 - [03: Content first](03-content-first/index.md)
 - [04: Experience](04-experience/index.md)
 - [05: Voice & Tone](05-voice-tone/index.md)
+- [06: Takeaways](06-takeaways/index.md)
