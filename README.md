@@ -12,3 +12,7 @@ Here you will find coursework from the `English for designers` course at VŠKK.
 - [04: Experience](04-experience/index.md)
 - [05: Voice & Tone](05-voice-tone/index.md)
 - [06: Takeaways](06-takeaways/index.md)
+
+---
+
+<sub><span style="color:gray">Winter semester 2022/23</span></sub>
