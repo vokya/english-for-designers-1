@@ -4,9 +4,9 @@
 
 ---
 
-[About me](02-first-impression/index.md)
-[Work experience](03-content-first/index.md)
-[Highlighted case study](04-experience/case-study.md)
+- [About me](02-first-impression/index.md)
+- [Work experience](03-content-first/index.md)
+- [Highlighted case study](04-experience/case-study.md)
 
 ---
 
