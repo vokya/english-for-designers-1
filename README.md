@@ -1,12 +1,18 @@
-# VŠKK - english-for-designers
+# Hi, my name is Max...
 
-Hi, my name is Max and i do graphic design.
+...and i do graphic design.
 
-[More info here...](04-experience/index.md)
+---
 
-Here you will find coursework from the `English for designers` course at VŠKK.
+[About me](02-first-impression/index.md)
+[Work experience](03-content-first/index.md)
+[Highlighted case study](04-experience/case-study.md)
+
+---
 
 ## Don't get lost!
+
+Here you will find coursework from the `English for designers` course at VŠKK.
 
 - [01: Alternative text](01-alternative-text/index.md)
 - [02: First impression](02-first-impression/index.md)
@@ -21,3 +27,6 @@ Here you will find coursework from the `English for designers` course at VŠKK.
 
 
 <sub><span style="color:gray">[View repository](https://github.com/aerostride/english-for-designers)</span></sub>
+
+
+<sub><span style="color:gray">[Homepage](https://www.aerostri.de)</span></sub>
